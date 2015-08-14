@@ -3,7 +3,7 @@ An Global Open-sourced Space Program
 
 ## Getting Started
 
-This is where everything
+This is where everything start
 
 ## Troubleshooting
 
