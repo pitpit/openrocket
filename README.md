@@ -1,2 +1,2 @@
 # openrocket
-An opensource Space Program
+An Global Open-sourced Space Program
