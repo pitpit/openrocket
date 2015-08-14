@@ -1,7 +1,7 @@
 # openrocket
 A Global Open-sourced Space Program.
 
-![Alt text](public/assets/or_official_logo.png)
+![Alt text](https://raw.githubusercontent.com/pitpit/openrocket/master/public/assets/img/or_official_logo.png)
 
 
 ## Getting Started
