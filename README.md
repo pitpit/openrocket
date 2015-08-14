@@ -1,5 +1,5 @@
 # openrocket
-An Global Open-sourced Space Program.
+A Global Open-sourced Space Program.
 
 ![Alt text](public/assets/or_official_logo.png)
 
