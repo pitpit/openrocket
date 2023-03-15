@@ -1,5 +1,5 @@
 # openrocket
-A Global Open-sourced Space Program.
+A Global Open-sourced Space Program with zero net energy consumption and zero carbon emissions.
 
 ![Alt text](https://raw.githubusercontent.com/pitpit/openrocket/master/public/assets/img/or_official_logo.png)
 
